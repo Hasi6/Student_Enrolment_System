@@ -7,9 +7,6 @@ public class Student {
    private String firstName;
    private String lastName;
    private String year;
-   private String courses;
-   private int tutionBalance;
-   private static int costOfCourse = 600;
 
 
 //    constructor to get name and grade
